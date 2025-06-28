@@ -1,1 +1,1 @@
-export type {FCProps, FCChildrenProps, IFormFieldProps, TSetState} from './types';
+export type * from './types';

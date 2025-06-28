@@ -67,14 +67,18 @@ export interface IFormFieldProps<G extends HTMLElement, T = string> {
 }
 
 /**
- * IWithPlaceholder 介面定義了一個包含選用屬性 `placeholder` 的結構。
+ * Interface representing properties for a form field with a placeholder.
  *
- * 使用此介面時，可以為其定義一個字串型態的 `placeholder`，通常用於表示佔位符文字。
+ * This interface defines a contract for form field components that may
+ * include a placeholder property, which provides guiding text displayed
+ * within the form field before the user enters any input.
  *
- * 屬性:
- * - placeholder: 一個選填的字串，用於指定文字的佔位符。
+ * Properties:
+ * - placeholder: An optional string representing the placeholder text
+ *   displayed in the form field. It aims to guide or inform the user
+ *   about the expected input.
  */
-export interface IWithPlaceholder {
+export interface IFormFieldPropsWithPlaceholder {
     placeholder?: string
 }
 
