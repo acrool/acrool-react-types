@@ -1,6 +1,6 @@
 # Acrool React Types
 
-<img src="https://raw.githubusercontent.com/acrool/acrool-react-fetcher/main/public/og.png" alt="Acrool React Types Logo"/>
+<img src="https://raw.githubusercontent.com/acrool/acrool-react-types/main/public/og.png" alt="Acrool React Types Logo"/>
 
 <p align="center">
     React common types
