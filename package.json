@@ -1,7 +1,7 @@
 {
   "name": "@acrool/react-types",
   "version": "0.0.1",
-  "description": "Most modern rwd grid system by react + styled-component",
+  "description": "React common types",
   "keywords": [
     "react",
     "typescript",
