@@ -78,7 +78,7 @@ export interface IFormFieldProps<G extends HTMLElement, T = string> {
  *   displayed in the form field. It aims to guide or inform the user
  *   about the expected input.
  */
-export interface IFormFieldPropsWithPlaceholder<G extends HTMLElement, T = string> extends IFormFieldProps<G, T> {
+export interface IFormFieldWithPlaceholderProps<G extends HTMLElement, T = string> extends IFormFieldProps<G, T> {
     placeholder?: string
 }
 
