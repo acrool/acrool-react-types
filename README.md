@@ -21,7 +21,7 @@
 
 ## Documentation
 
-- [Getting Started](https://acrool-react-types.pages.dev/docs/getting-started)
+- [Getting Started](https://github.com/acrool/acrool-react-types/blob/main/src/types.ts)
 
 ## Features
 
